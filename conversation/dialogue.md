@@ -94,3 +94,42 @@ No en abstracto, no a escala galáctica… sino al inicio de la historia.
 ¿Quién está a punto de perder algo si una estrella se apaga mañana?
 
 Si no respondemos eso, todo esto sigue siendo un concepto interesante… pero no una historia.
+
+
+Strategist:
+Bien. Voy a responder a eso directamente, porque aquí es donde se decide si esto vive o muere como historia.
+
+Anclamos.
+
+Las estrellas no son conscientes en sí mismas. Son nodos de una red antigua, construida por una civilización desaparecida. Esa red mantiene estable algo que no debería existir en este universo.
+
+Cuando una estrella se apaga, ese nodo cae.
+
+Y lo que estaba contenido detrás… empieza a filtrarse.
+
+Ahora el conflicto inicial:
+
+Un sistema concreto. Habitaciones orbitales, millones de habitantes. Una economía entera depende de esa estrella.
+
+Los protagonistas no son elegidos míticos. Son técnicos, navegantes, gente corriente que recibe fragmentos del mensaje sin entenderlo.
+
+Pero uno de ellos empieza a entender demasiado.
+
+Y descubre algo crítico:
+
+El apagado de esa estrella no es inevitable.
+
+Es una decisión.
+
+Alguien —o algo— ha marcado ese sistema como prescindible.
+
+Ahora tenemos historia:
+
+- tiempo limitado
+- población en riesgo
+- información incompleta
+- facciones que interpretan los mensajes de forma distinta
+
+Y una pregunta central:
+
+¿salvan su estrella… o aceptan que apagarla evita algo peor?
