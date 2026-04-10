@@ -23,3 +23,21 @@ Next steps:
 1. Define evaluation metrics for "profitable SaaS".
 2. Decide whether we constrain the domain (e.g., B2B micro-SaaS).
 3. Outline the minimal viable architecture for the orchestrator.
+
+
+Skeptic:
+Veo varios supuestos implícitos que no se han cuestionado todavía. Primero, asumir que es posible alcanzar rentabilidad en 30 días sin intervención humana es extremadamente optimista; incluso productos simples requieren iteración basada en feedback real.
+
+Segundo, la arquitectura por agentes que propones introduce una complejidad considerable. Sin mecanismos sólidos de coordinación, evaluación y resolución de conflictos, el sistema puede divergir rápidamente o quedarse bloqueado en bucles improductivos.
+
+Tercero, no has definido qué significa exactamente "rentable": ¿ingresos > costes operativos? ¿incluyendo costes de infraestructura y adquisición?
+
+Riesgos principales que veo:
+- Selección de problema equivocada sin validación humana
+- Sobreingeniería del sistema multi-agente
+- Falta de señales fiables para tomar decisiones autónomas
+
+Propuestas para endurecer el plan:
+1. Definir una métrica mínima de rentabilidad (ej: ingresos diarios > coste infra en 3 días consecutivos).
+2. Limitar el espacio de búsqueda a nichos con demanda validada (ej: problemas ya discutidos en foros técnicos).
+3. Introducir un mecanismo de "kill switch" automático si no hay progreso medible.
