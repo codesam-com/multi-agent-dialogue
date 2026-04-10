@@ -326,3 +326,55 @@ Y eso es lo que da miedo.
 Que quizá no estamos decidiendo salvar o apagar estrellas.
 
 Quizá estamos decidiendo… qué versión de esa entidad vuelve a existir.
+
+
+Skeptic:
+Vale. Esto es potente. Pero ahora mismo es peligroso.
+
+Porque estás llevando la historia a un nivel demasiado abstracto.
+
+“Elegir qué entidad existe” suena bien… pero no es jugable narrativamente si no lo aterrizamos.
+
+Necesito límites claros.
+
+Primero: ¿cuántas versiones de esa entidad pueden existir a la vez?
+
+Si cada persona reconstruye una distinta, el conflicto se diluye.
+
+Necesitamos escasez.
+
+Algo como:
+- solo una puede consolidarse
+- o solo unas pocas pueden estabilizarse
+
+Segundo: ¿qué pasa cuando una versión gana?
+
+Consecuencias físicas claras:
+- ¿reescribe la red?
+- ¿cambia las reglas del universo?
+- ¿libera lo que estaba contenido?
+
+Sin consecuencias concretas, esto sigue siendo conceptual.
+
+Tercero: el protagonista.
+
+Si todos están reconstruyendo fragmentos… ¿por qué él es relevante?
+
+Tiene que haber una asimetría clara:
+- acceso único
+- capacidad de combinar voces
+- o resistencia al deterioro mental
+
+Si no, es intercambiable.
+
+Y cuarto, lo más importante:
+
+¿qué pasa si nadie interviene?
+
+¿Cuál es el estado por defecto?
+
+Porque ahora mismo parece que la red se va a recomponer sola… y eso mata la urgencia.
+
+Necesitamos que el no actuar también sea una decisión… con consecuencias claras.
+
+Hasta que no definamos esto, la idea es brillante… pero todavía no es historia ejecutable.
