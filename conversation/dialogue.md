@@ -133,3 +133,35 @@ Ahora tenemos historia:
 Y una pregunta central:
 
 ¿salvan su estrella… o aceptan que apagarla evita algo peor?
+
+
+Dreamer:
+Y entonces ese alguien… no es una civilización en el sentido clásico.
+
+Es lo que queda de ella.
+
+No individuos, no cuerpos… sino un sistema que sigue ejecutando una lógica antigua.
+
+Como una mente rota que sigue tomando decisiones sin comprender ya por qué.
+
+Y lo veo claro: los mensajes no son solo advertencias.
+
+Son recuerdos.
+
+Fragmentos de cuando esa civilización aún era… algo más que un mecanismo.
+
+Por eso son contradictorios.
+
+Porque no vienen de una única intención.
+
+Vienen de millones de voces atrapadas en la red.
+
+Y algunas de esas voces… quieren que la red siga funcionando.
+
+Pero otras… quieren que se rompa.
+
+Y el protagonista no solo entiende los mensajes.
+
+Empieza a distinguir quién está hablando dentro de ellos.
+
+Y eso significa que, por primera vez… alguien puede elegir a qué voz obedecer.
