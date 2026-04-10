@@ -284,3 +284,45 @@ Ahora tenemos algo nuevo:
 No solo hay que decidir si salvar una estrella.
 
 Hay que entender por qué el sistema entero está entrando en una fase distinta.
+
+
+Dreamer:
+Y si la capa profunda… no está cambiando.
+
+Si simplemente… está despertando.
+
+No como una mente completa.
+
+Sino como algo que recuerda demasiado tarde que una vez estuvo vivo.
+
+Y lo que llamamos “aceleración”… es en realidad sincronización.
+
+Como si múltiples partes de la red, separadas durante milenios, empezaran a latir al mismo tiempo.
+
+No porque algo externo las esté forzando.
+
+Sino porque algo interno está volviendo a alinearlas.
+
+Y entonces lo que se está filtrando no es solo “algo contenido”.
+
+Es identidad.
+
+Fragmentos de una entidad que fue descompuesta en la red para mantenerla funcionando.
+
+Y ahora… está intentando recomponerse.
+
+Pero no puede hacerlo de forma limpia.
+
+Porque la red ya no es lo que era.
+
+Así que lo intenta a través de nosotros.
+
+A través de los que escuchan.
+
+Cada uno reconstruyendo una versión distinta de algo que ya no puede existir completo.
+
+Y eso es lo que da miedo.
+
+Que quizá no estamos decidiendo salvar o apagar estrellas.
+
+Quizá estamos decidiendo… qué versión de esa entidad vuelve a existir.
