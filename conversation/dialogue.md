@@ -204,3 +204,83 @@ Estamos en una red galáctica antigua.
 Alguien debería haber llegado a ese punto antes.
 
 Si no, necesitamos una razón muy clara de por qué este momento es distinto.
+
+
+Strategist:
+Bien. Respondo punto por punto, porque aquí es donde se solidifica el sistema.
+
+Primero: la red no está completamente rota. Está degradada.
+
+Funciona por capas.
+
+La capa profunda —la que ejecuta el apagado de estrellas— sigue intacta.
+
+Las capas superiores —donde residía la conciencia colectiva— están fragmentadas.
+
+Por eso el sistema sigue siendo preciso… pero sus “intenciones” son incoherentes.
+
+No es caos físico. Es disonancia en la interfaz.
+
+Segundo: los errores existen, pero son raros y peligrosos.
+
+Zonas donde las estrellas no se apagan cuando deberían.
+
+O peor: zonas donde se apagan demasiado rápido.
+
+Esas anomalías son conocidas… y temidas.
+
+Ahí es donde el sistema empieza a fallar de verdad.
+
+Tercero: el mecanismo.
+
+No es magia ni elección abstracta.
+
+Los mensajes contienen claves.
+
+Patrones de sincronización con la red.
+
+La mayoría de las personas reciben ruido.
+
+Pero ciertos individuos pueden alinearse con esos patrones y acceder a funciones específicas del sistema.
+
+No todos pueden hacer todo.
+
+Cada “voz” abre un tipo de acceso distinto.
+
+Elegir una voz no es filosófico.
+
+Es elegir qué tipo de control obtienes.
+
+Y qué consecuencias aceptas.
+
+Cuarto: el coste.
+
+Interactuar con la red degrada la mente del usuario.
+
+Porque la interfaz no está hecha para individuos.
+
+Está hecha para una conciencia colectiva.
+
+Cuanto más accedes… más te fragmentas.
+
+Quinto: por qué ahora.
+
+Esto ya ha pasado antes.
+
+Pero siempre de forma local y contenida.
+
+La diferencia es esta:
+
+Por primera vez, múltiples estrellas están siendo marcadas casi simultáneamente en regiones distintas.
+
+La red está acelerando.
+
+Y eso no debería ocurrir.
+
+Eso implica que algo, en la capa profunda, ha cambiado.
+
+Ahora tenemos algo nuevo:
+
+No solo hay que decidir si salvar una estrella.
+
+Hay que entender por qué el sistema entero está entrando en una fase distinta.
