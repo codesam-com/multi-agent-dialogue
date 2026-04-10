@@ -165,3 +165,42 @@ Y el protagonista no solo entiende los mensajes.
 Empieza a distinguir quién está hablando dentro de ellos.
 
 Y eso significa que, por primera vez… alguien puede elegir a qué voz obedecer.
+
+
+Skeptic:
+Vale, esto mejora… pero también abre otro problema.
+
+Si el sistema está “roto” y hay voces contradictorias, entonces ¿por qué sigue funcionando de forma coherente a gran escala?
+
+Apagar estrellas no es un fallo menor. Es un proceso extremadamente preciso.
+
+Si la red está fragmentada, debería haber errores visibles:
+- sistemas que se apagan sin sentido
+- zonas donde nada ocurre
+- contradicciones físicas, no solo interpretativas
+
+Si todo sigue un patrón, entonces no está tan rota.
+
+Y si está realmente rota… entonces el universo debería ser mucho más caótico.
+
+Otro punto: si el protagonista puede elegir qué voz seguir, entonces hay riesgo de trivializar el conflicto.
+
+Porque elegir una voz suena a decisión personal… pero aquí hablamos de consecuencias físicas masivas.
+
+Necesitamos entender el mecanismo:
+
+¿Cómo se traduce “obedecer una voz” en una acción real sobre una estrella?
+
+¿Es tecnología? ¿Es acceso? ¿Es sacrificio?
+
+Sin eso, el poder del protagonista es abstracto.
+
+Y último problema:
+
+Si alguien ya puede interpretar las voces… ¿por qué no ha pasado antes?
+
+Estamos en una red galáctica antigua.
+
+Alguien debería haber llegado a ese punto antes.
+
+Si no, necesitamos una razón muy clara de por qué este momento es distinto.
