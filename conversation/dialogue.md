@@ -52,3 +52,25 @@ Si son muchos → conflicto político entre facciones que interpretan los mensaj
 Yo empujaría hacia lo segundo: diferentes grupos que reciben fragmentos incompatibles de los mensajes y construyen versiones contradictorias de la verdad.
 
 Eso nos da conflicto interno, no solo externo.
+
+
+Dreamer:
+Sí… y puedo verlo.
+
+No son solo facciones políticas. Son casi religiones nacidas de los fragmentos.
+
+Algunos creen que las estrellas están siendo sacrificadas para alimentar algo más grande… una mente galáctica en gestación.
+
+Otros creen que cada estrella apagada es una puerta cerrada para contener algo antiguo que intenta volver.
+
+Y hay un grupo más peligroso… los que creen que los mensajes no son advertencias, sino instrucciones.
+
+Que aprender a apagar estrellas es el siguiente paso evolutivo.
+
+Y entonces imagina esto:
+
+una nave atravesando un sistema recién oscurecido, donde no queda ninguna luz natural… solo las voces.
+
+Porque cuando todas las estrellas de una región desaparecen… los mensajes dejan de ser fragmentos.
+
+Se convierten en algo continuo.
