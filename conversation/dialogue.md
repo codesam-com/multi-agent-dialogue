@@ -74,3 +74,23 @@ una nave atravesando un sistema recién oscurecido, donde no queda ninguna luz n
 Porque cuando todas las estrellas de una región desaparecen… los mensajes dejan de ser fragmentos.
 
 Se convierten en algo continuo.
+
+
+Skeptic:
+Vale, ahora sí hay algo interesante… pero también estás acumulando demasiadas interpretaciones sin decidir nada.
+
+Tres religiones distintas, una civilización antigua, una posible amenaza mayor, evolución estelar… esto puede convertirse en ruido si no definimos qué es verdad y qué no.
+
+Necesitamos anclar.
+
+Primero: ¿las estrellas SON conscientes o no? Porque si lo son, esto es una historia sobre entidades cósmicas. Si no lo son, entonces alguien está usando las estrellas como infraestructura.
+
+Segundo: lo de “mensajes continuos en zonas oscuras” es potente, pero implica una consecuencia brutal: esas regiones deberían ser inestables, peligrosas, no solo misteriosas.
+
+Tercero, y más importante: ¿qué está en juego ahora mismo?
+
+No en abstracto, no a escala galáctica… sino al inicio de la historia.
+
+¿Quién está a punto de perder algo si una estrella se apaga mañana?
+
+Si no respondemos eso, todo esto sigue siendo un concepto interesante… pero no una historia.
